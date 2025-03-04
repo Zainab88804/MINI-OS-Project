@@ -10,7 +10,7 @@ MINI OS is a simple project demonstrating key **Operating System (OS) concepts**
 
 For detailed documentation, download the following files:
 📜 [Project Proposal](https://github.com/Zainab88804/MINI-OS-Project/raw/refs/heads/main/MINI%20OS%20PROPOSAL.docx)  
-📜 [Project Report](your-link-here)  
+📜 [Project Report](https://github.com/Zainab88804/MINI-OS-Project/raw/refs/heads/main/MINI%20OS%20PROJECT%20REPORT.docx)  
 
 🚀 **Happy Coding!** 🎯
 
