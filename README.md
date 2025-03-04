@@ -9,7 +9,7 @@ MINI OS is a simple project demonstrating key **Operating System (OS) concepts**
 - **I/O Handling**
 
 For detailed documentation, download the following files:
-📜 [Project Proposal](your-link-here)  
+📜 [Project Proposal](PK)  
 📜 [Project Report](your-link-here)  
 
 🚀 **Happy Coding!** 🎯
